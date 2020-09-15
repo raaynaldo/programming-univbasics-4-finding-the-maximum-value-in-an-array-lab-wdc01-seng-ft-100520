@@ -8,5 +8,5 @@ def find_max_value(array)
     end
     count ++
   end
-  max { |a, b|  }
+  max
 end
